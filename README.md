@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sidharathdau
 - 👀 I’m interested in webdevlopment , chess, writing
-- 🌱 I’m currently learning fronnt end
+- 🌱 I’m currently learning fronntend and backend
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me in sstc bhilai campus
 - 😄 Pronouns: ...
